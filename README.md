@@ -10,11 +10,11 @@
 4. e.g. Dictionary: The contents are organized alphabetically which helps us to find the words easily.
 5. Data is organized in different ways based on needs and ease of accessing and updating it.
 
-Built In | Derived
+Built In | User Defined
 :--- | :---
 List | Stack
 Tuple | Queue
 Set | Linked List
 Dictionary | Tree
-| Graph
+ | Graph
 
