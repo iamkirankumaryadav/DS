@@ -16,5 +16,5 @@ List | Stack
 Tuple | Queue
 Set | Linked List
 Dictionary | Tree
-- | Graph
+_ | Graph
 
