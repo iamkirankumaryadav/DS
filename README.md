@@ -24,19 +24,16 @@ _ | Graph
     <th>Description</th>
   </tr>
   <tr>
-  <td rowspan=4>Dictionary</td>
+    <td rowspan=4>Dictionary</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+  </tr>
+  <tr>   
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
     <td></td>
   </tr>
 </table>
