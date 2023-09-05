@@ -26,7 +26,16 @@ _ | Graph
   <tr>
   <td rowspan=4>Dictionary</td>
     <td></td>
+  </tr>
+  <tr>
     <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
   </tr>
