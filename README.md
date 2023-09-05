@@ -40,3 +40,32 @@ _ | Graph
     <td>Dictionaries are unordered, we cannot access values using an index, we access using keys.</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Built In</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td rowspan=7>Set</td>
+    <td>Data = {1, 2, 3, 4}</td>
+  </tr>
+  <tr>   
+    <td>We can create sets using the <code>set()</code> constructor</td>
+  </tr>
+  <tr>
+    <td>Collection of unique elements.</td>
+  </tr>
+  <tr>
+    <td>Data type of an empty set i.e. {} is dictionary. Use <code>set()</code> constructor to create an empty set.</td>
+  </tr>
+  <tr>
+    <td>Sets are unordered, we can't access values using an index. We can apply loops over sets.</td>
+  </tr>
+  <tr>
+    <td>Sets are mutable, but we can only add() or remove() new elements</td>
+  </tr>
+  <tr>
+    <td>Sets can't be nested, the elements must be immutable</td>
+  </tr>
+</table>
