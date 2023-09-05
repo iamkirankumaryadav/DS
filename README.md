@@ -18,3 +18,16 @@ Set | Linked List
 Dictionary | Tree
 _ | Graph
 
+<table>
+  <tr>
+    <th>Built In</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+  <td rowspan=4>Dictionary</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
