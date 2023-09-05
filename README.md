@@ -24,7 +24,7 @@ _ | Graph
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan=4>Dictionary</td>
+    <td rowspan=5>Dictionary</td>
     <td>Data = {"Name": "Kirankumar Yadav", "City": "Bangalore"}</td>
   </tr>
   <tr>   
@@ -34,6 +34,9 @@ _ | Graph
     <td>Keys must be immutable, values can be mutable or immutable.</td>
   </tr>
   <tr>
-    <td>Keys must be unique, duplicate keys will be removed automatically</td>
+    <td>Keys must be unique, duplicate keys will be removed automatically.</td>
+  </tr>
+  <tr>
+    <td>Dictionaries are unordered, we cannot access values using an index, we access using keys.</td>
   </tr>
 </table>
