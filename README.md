@@ -27,13 +27,13 @@ _ | Graph
     <td rowspan=4>Dictionary</td>
     <td>Data = {"Name": "Kirankumar Yadav", "City": "Bangalore"}</td>
   </tr>
-  <tr>
-    <td>Keys must be immutable, values can be mutable or immutable.</td>
-  </tr>
   <tr>   
     <td>We can also create dictionaries using the <code>dict()</code> constructor</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Keys must be immutable, values can be mutable or immutable.</td>
+  </tr>
+  <tr>
+    <td>Keys must be unique, duplicate keys will be removed automatically</td>
   </tr>
 </table>
